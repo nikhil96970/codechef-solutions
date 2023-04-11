@@ -1,8 +1,5 @@
 import math
-
 T = int(input())
-
-
 def Binary():
     for i in range(0,T): 
         (N,A,B) = map(int,input().split())
